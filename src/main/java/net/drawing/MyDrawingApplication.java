@@ -9,7 +9,6 @@ public class MyDrawingApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MyDrawingApplication.class, args);
 		System.out.println("안뇽");
-		
 	}
 
 }
